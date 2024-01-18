@@ -1,4 +1,4 @@
-# Invest in the company
+# Invest in a company
 
 [Invest $3,000](millionaire.md)
 
