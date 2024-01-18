@@ -1,5 +1,5 @@
 # Hospital
 
-Oops! you got hit by a car.
+Oops! you got hit by a car. Since you're an american don't have any health insurance.
 
-[Heal](bankrupt.md)
+[Pay for treatment](bankrupt.md)
