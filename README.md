@@ -8,3 +8,5 @@ Your adventure starts now! click [here](alarmring.md) to begin!
 
 Click [here](game-of-life-cyoa.png) to view our CYOA drawing (note: Might be messy and confusing to understand :).
 
+Made by [Jimmy Li](https://github.com/Jimmyl6413)
+
