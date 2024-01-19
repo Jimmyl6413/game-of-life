@@ -2,4 +2,4 @@
 
 Whoops! Your bankrupt.
 
-[Try Again!](alarmring.md)
+[Try Again!](../alarmring.md)
