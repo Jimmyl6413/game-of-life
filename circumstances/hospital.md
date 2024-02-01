@@ -4,4 +4,6 @@ Oops! you got hit by a car. Since don't have any health insurance no one can hel
 
 [Pay for treatment](bankrupt.md)
 
+or
+
 [Turn back time](../alarmring.md)
