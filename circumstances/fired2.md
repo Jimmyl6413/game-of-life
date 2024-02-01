@@ -1,6 +1,6 @@
 # Fired!
 
-Looks lke you got fired for not giving 110% effort into your job...
+Looks like you got fired for not giving 125% effort into your own job!
 
 [New way to make money](invest.md)
 

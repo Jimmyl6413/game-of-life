@@ -1,5 +1,7 @@
 # BANKRUPT
 
-Whoops! Your bankrupt.
+Game Over...
+
+Whoops! You've gone bankrupt.
 
 [Try Again!](../alarmring.md)
