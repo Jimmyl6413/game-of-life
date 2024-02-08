@@ -6,3 +6,4 @@ Your alarm rings at 5:30 AM. What do you feel like doing?
 
 [Back to Sleep](circumstances/late-to-work.md)
 
+![](../img/image.png)
